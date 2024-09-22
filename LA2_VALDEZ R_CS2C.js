@@ -1,5 +1,6 @@
+// Numbers
 let firstFavNum = 13;
-let secondFavNum = 24;
+let secondFavNum = 10;
 
 let sumOfall = firstFavNum + secondFavNum;
 let f1Addf2 = firstFavNum + secondFavNum;
